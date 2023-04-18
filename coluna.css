@@ -1,0 +1,20 @@
+.coluna1
+{
+    width: 70%;
+    background-color: red;
+    margin-left: 50px;
+    position: relative;
+    right: 20px;
+}
+
+.coluna2
+{
+    width: 30%;
+    background-color: green;
+    margin-right: 50px;
+}
+
+.displayflex
+{
+    display: flex;
+}

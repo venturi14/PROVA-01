@@ -1,0 +1,24 @@
+.barra
+{
+border-radius: 15px;
+margin-top: 15px;
+width: 300px;
+height: 70px;
+background: #c3c3c3;
+}
+
+.barra2
+{
+border-radius: 15px;
+width: 70%;
+height: 70px;
+background: red;
+}
+
+.centro
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 400px;
+    
+}

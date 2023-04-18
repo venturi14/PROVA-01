@@ -1,0 +1,51 @@
+.barra-de-progresso {
+border-radius: 15px;
+margin-top: 15px;
+width: 150px;
+height: 15px;
+box-shadow: 1px 1px 2px;
+background: lightgrey;
+}
+
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+    width: 35vw;
+    border: 3px solid grey;
+    border-radius: 15%;
+    margin-left: 450px;
+    margin-top: 60px;
+}
+.msg 
+{
+background: lightgrey;
+border-radius: 5px;
+}
+
+head 
+{
+font-size: 25px;
+}
+
+.areaform 
+{
+display: flex;
+justify-content: center;
+margin-top: 20px;
+}
+
+.btn_submit 
+{
+width: 100px;
+height: 30px;
+position: relative;
+left:90px;
+}
+
+em 
+{
+font-weight: 900;
+}
